@@ -13,6 +13,7 @@
 		AF2B5BA9244640C1003AE532 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF2B5BA7244640C1003AE532 /* Main.storyboard */; };
 		AF2B5BAB244640C2003AE532 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF2B5BAA244640C2003AE532 /* Assets.xcassets */; };
 		AF2B5BAE244640C2003AE532 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF2B5BAC244640C2003AE532 /* LaunchScreen.storyboard */; };
+		AF2B5BB6244643F2003AE532 /* Resturant.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2B5BB5244643F2003AE532 /* Resturant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF2B5BAA244640C2003AE532 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF2B5BAD244640C2003AE532 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF2B5BAF244640C2003AE532 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF2B5BB5244643F2003AE532 /* Resturant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Resturant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AF2B5BA1244640C1003AE532 /* AppDelegate.swift */,
 				AF2B5BA3244640C1003AE532 /* SceneDelegate.swift */,
 				AF2B5BA5244640C1003AE532 /* ViewController.swift */,
+				AF2B5BB5244643F2003AE532 /* Resturant.swift */,
 				AF2B5BA7244640C1003AE532 /* Main.storyboard */,
 				AF2B5BAA244640C2003AE532 /* Assets.xcassets */,
 				AF2B5BAC244640C2003AE532 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				AF2B5BA6244640C1003AE532 /* ViewController.swift in Sources */,
 				AF2B5BA2244640C1003AE532 /* AppDelegate.swift in Sources */,
+				AF2B5BB6244643F2003AE532 /* Resturant.swift in Sources */,
 				AF2B5BA4244640C1003AE532 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
